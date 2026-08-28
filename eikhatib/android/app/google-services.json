@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "353174574270",
+    "project_id": "eikhatib",
+    "storage_bucket": "eikhatib.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353174574270:android:a340d2fd6324dcb4843aef",
+        "android_client_info": {
+          "package_name": "com.eikhatib.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTLK8tuQCJTZ0ppbObDLr0QvOAW91CU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353174574270:android:59f73bb68e6b11d4843aef",
+        "android_client_info": {
+          "package_name": "com.eikhatib.eikhatib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTLK8tuQCJTZ0ppbObDLr0QvOAW91CU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353174574270:android:c6e865407b0c69c9843aef",
+        "android_client_info": {
+          "package_name": "com.example.eikhatib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTLK8tuQCJTZ0ppbObDLr0QvOAW91CU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
